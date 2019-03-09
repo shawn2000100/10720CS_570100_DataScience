@@ -1,0 +1,300 @@
+https://arxiv.org/abs/1902.11294
+A lattice-based approach to the expressivity of deep ReLU neural networks
+Vincent Corlay;Joseph J. Boutros;Philippe Ciblat;Loic Brunel;
+https://arxiv.org/abs/1902.11281
+Fair Dimensionality Reduction and Iterative Rounding for SDPs
+Jamie Morgenstern;Samira Samadi;Mohit Singh;Uthaipon Tantipongpipat;Santosh Vempala;
+https://arxiv.org/abs/1902.11280
+From Visual to Acoustic Question Answering
+Jerome Abdelnour;Giampiero Salvi;Jean Rouat;
+https://arxiv.org/abs/1902.11269
+Efficient Contextual Representation Learning Without Softmax Layer
+Liunian Harold Li;Patrick H. Chen;Cho-Jui Hsieh;Kai-Wei Chang;
+https://arxiv.org/abs/1902.11268
+CircConv: A Structured Convolution with Low Complexity
+Siyu Liao;Zhe Li;Liang Zhao;Qinru Qiu;Yanzhi Wang;Bo Yuan;
+https://arxiv.org/abs/1902.11261
+NOODL: Provable Online Dictionary Learning and Sparse Coding
+Sirisha Rambhatla;Xingguo Li;Jarvis Haupt;
+https://arxiv.org/abs/1902.11259
+Distributed Learning with Sublinear Communication
+Jayadev Acharya;Christopher De Sa;Dylan J. Foster;Karthik Sridharan;
+https://arxiv.org/abs/1902.11245
+Incorporating End-to-End Speech Recognition Models for Sentiment Analysis
+Egor Lakomkin;Mohammad Ali Zamani;Cornelius Weber;Sven Magg;Stefan Wermter;
+https://arxiv.org/abs/1902.11237
+A new Backdoor Attack in CNNs by training set corruption without label poisoning
+Mauro Barni;Kassem Kallas;Benedetta Tondi;
+https://arxiv.org/abs/1902.11236
+Principal Component Analysis for seizure characterization in EEG signals
+Melisa Maidana Capitán;Nuria Cámpora;Silvia Kochen;Inés Samengo;
+https://arxiv.org/abs/1902.11233
+The principles of adaptation in organisms and machines I: machine learning, information theory, and thermodynamics
+Hideaki Shimazaki;
+https://arxiv.org/abs/1902.11230
+Ab initio vibrational free energies including anharmonicity for multicomponent alloys
+Blazej Grabowski;Yuji Ikeda;Fritz Körmann;Christoph Freysoldt;Andrew Ian Duff;Alexander Shapeev;Jörg Neugebauer;
+https://arxiv.org/abs/1902.11216
+B-Script: Transcript-based B-roll Video Editing with Recommendations
+Bernd Huber;Hijung Valentina Shin;Bryan Russell;Oliver Wang;Gautham J. Mysore;
+https://arxiv.org/abs/1902.11208
+No Padding Please: Efficient Neural Handwriting Recognition
+Gideon Maillette de Buy Wenniger;Lambert Schomaker;Andy Way;
+https://arxiv.org/abs/1902.11199
+Active Exploration in Markov Decision Processes
+Jean Tarbouriech;Alessandro Lazaric;
+https://arxiv.org/abs/1902.11189
+Semantics of higher-order probabilistic programs with conditioning
+Fredrik Dahlqvist;Dexter Kozen;
+https://arxiv.org/abs/1902.11175
+One-Shot Federated Learning
+Neel Guha;Ameet Talwlkar;Virginia Smith;
+https://arxiv.org/abs/1902.11163
+On Maintaining Linear Convergence of Distributed Learning and Optimization under Limited Communication
+Sindri Magnússon;Hossein Shokri-Ghadikolaei;Na Li;
+https://arxiv.org/abs/1902.11156
+On the convex geometry of blind deconvolution and matrix completion
+Felix Krahmer;Dominik Stöger;
+https://arxiv.org/abs/1902.11153
+On the generalization of GAN image forensics
+Xinsheng Xuan;Bo Peng;Jing Dong;Wei Wang;
+https://arxiv.org/abs/1902.11136
+Learning Dynamical Systems from Partial Observations
+Ibrahim Ayed;Emmanuel de Bézenac;Arthur Pajot;Julien Brajard;Patrick Gallinari;
+https://arxiv.org/abs/1902.11134
+Disentangled Deep Autoencoding Regularization for Robust Image Classification
+Zhenyu Duan;Martin Renqiang Min;Li Erran Li;Mingbo Cai;Yi Xu;Bingbing Ni;
+https://arxiv.org/abs/1902.11133
+Bengali Handwritten Character Classification using Transfer Learning on Deep Convolutional Neural Network
+Swagato Chatterjee;Rwik Kumar Dutta;Debayan Ganguly;Kingshuk Chatterjee;Sudipta Roy;
+https://arxiv.org/abs/1902.11132
+Generative Models for Low-Rank Video Representation and Reconstruction
+Rakib Hyder;M. Salman Asif;
+https://arxiv.org/abs/1902.11128
+FixyNN: Efficient Hardware for Mobile Computer Vision via Transfer Learning
+Paul N. Whatmough;Chuteng Zhou;Patrick Hansen;Shreyas Kolala Venkataramanaiah;Jae-sun Seo;Matthew Mattina;
+https://arxiv.org/abs/1902.11124
+A Generative Map for Image-based Camera Localization
+Mingpan Guo;Stefan Matthes;Jiaojiao Ye;Hao Shen;
+https://arxiv.org/abs/1902.11123
+Adaptive Masked Weight Imprinting for Few-Shot Segmentation
+Mennatullah Siam;Boris Oreshkin;
+https://arxiv.org/abs/1902.11122
+Deep Learning in Cardiology
+Paschalis Bizopoulos;Dimitrios Koutsouris;
+https://arxiv.org/abs/1902.11121
+CMR motion artifact correction using generative adversarial nets
+Yunxuan Zhang;Weiliang Zhang;Qinyan Zhang;Jijiang Yang;Xiuyu Chen;Shihua Zhao;
+https://arxiv.org/abs/1902.11119
+Image Classification on IoT Edge Devices: Profiling and Modeling
+Salma Abdel Magid;Francesco Petrini;Behnam Dezfouli;
+https://arxiv.org/abs/1902.11113
+PixelSteganalysis: Destroying Hidden Information with a Low Degree of Visual Degradation
+Dahuin Jung;Ho Bae;Hyun-Soo Choi;Sungroh Yoon;
+https://arxiv.org/abs/1902.11111
+Target-based Hyperspectral Demixing via Generalized Robust PCA
+Sirisha Rambhatla;Xingguo Li;Jarvis Haupt;
+https://arxiv.org/abs/1902.11110
+Semi-Supervised Multitask Learning on Multispectral Satellite Images Using Wasserstein Generative Adversarial Networks (GANs) for Predicting Poverty
+Anthony Perez;Swetava Ganguli;Stefano Ermon;George Azzari;Marshall Burke;David Lobell;
+https://arxiv.org/abs/1902.11108
+Artist Style Transfer Via Quadratic Potential
+Rahul Bhalley;Jianlin Su;
+https://arxiv.org/abs/1902.11106
+Operational Neural Networks
+Serkan Kiranyaz;Turker Ince;Alexandros Iosifidis;Moncef Gabbouj;
+https://arxiv.org/abs/1902.11104
+Tensor-variate Mixture of Experts
+Noémie Jaquier;Robert Haschke;Sylvain Calinon;
+https://arxiv.org/abs/1902.11102
+Constrained Thompson Sampling for Wireless Link Optimization
+Vidit Saxena;Joakim Jaldén;Joseph E. Gonzalez;Ion Stoica;Hugo Tullberg;
+https://arxiv.org/abs/1902.11097
+Predictive Inequity in Object Detection
+Benjamin Wilson;Judy Hoffman;Jamie Morgenstern;
+https://arxiv.org/abs/1902.11096
+Fluctuating Forces Induced by Non Equilibrium and Coherent Light Flow
+Ariane Soret;Karyn Le Hur;Eric Akkermans;
+https://arxiv.org/abs/1902.11095
+Big Data for Traffic Monitoring and Management
+Martino Trevisan;
+https://arxiv.org/abs/1902.11088
+Scaling Matters in Deep Structured-Prediction Models
+Aleksandr Shevchenko;Anton Osokin;
+https://arxiv.org/abs/1902.11074
+AFS: An Attention-based mechanism for Supervised Feature Selection
+Ning Gui;Danni Ge;Ziyin Hu;
+https://arxiv.org/abs/1902.11054
+Link Prediction with Mutual Attention for Text-Attributed Networks
+Robin Brochier;Adrien Guille;Julien Velcin;
+https://arxiv.org/abs/1902.11049
+Evaluating Rewards for Question Generation Models
+Tom Hosking;Sebastian Riedel;
+https://arxiv.org/abs/1902.11045
+Virtual Adversarial Training on Graph Convolutional Networks in Node Classification
+Ke Sun;Hantao Guo;Zhanxing Zhu;Zhouchen Lin;
+https://arxiv.org/abs/1902.11038
+Multi-Stage Self-Supervised Learning for Graph Convolutional Networks
+Ke Sun;Zhanxing Zhu;Zhouchen Lin;
+https://arxiv.org/abs/1902.11036
+Unsupervised Abnormality Detection through Mixed Structure Regularization (MSR) in Deep Sparse Autoencoders
+Moti Freiman;Ravindra Manjeshwar;Liran Goshen;
+https://arxiv.org/abs/1902.11035
+SAFE ML: Surrogate Assisted Feature Extraction for Model Learning
+Alicja Gosiewska;Aleksandra Gacek;Piotr Lubon;Przemyslaw Biecek;
+https://arxiv.org/abs/1902.11029
+Enhancing the Robustness of Deep Neural Networks by Boundary Conditional GAN
+Ke Sun;Zhanxing Zhu;Zhouchen Lin;
+https://arxiv.org/abs/1902.11019
+Towards Understanding Adversarial Examples Systematically: Exploring Data Size, Task and Model Factors
+Ke Sun;Zhanxing Zhu;Zhouchen Lin;
+https://arxiv.org/abs/1902.11004
+Global Vectors for Node Representations
+Robin Brochier;Adrien Guille;Julien Velcin;
+https://arxiv.org/abs/1902.10974
+Gaussian Process Modulated Cox Processes under Linear Inequality Constraints
+Andrés F. López-Lopera;ST John;Nicolas Durrande;
+https://arxiv.org/abs/1902.10963
+Learning partially ranked data based on graph regularization
+Kento Nakamura;Keisuke Yano;Fumiyasu Komaki;
+https://arxiv.org/abs/1902.10952
+Monotonic Gaussian Process for Spatio-Temporal Trajectory Separation in Brain Imaging Data
+Clement Abi Nader;Nicholas Ayache;Philippe Robert;Marco Lorenzi;
+https://arxiv.org/abs/1902.10940
+A comparative evaluation of novelty detection algorithms for discrete sequences
+Rémi Domingues;Pietro Michiardi;Jérémie Barlet;Maurizio Filippone;
+https://arxiv.org/abs/1902.10920
+Model Agnostic High-Dimensional Error-in-Variable Regression
+Anish Agarwal;Devavrat Shah;Dennis Shen;Dogyoon Song;
+https://arxiv.org/abs/1902.10918
+Meta Dynamic Pricing: Learning Across Experiments
+Hamsa Bastani;David Simchi-Levi;Ruihao Zhu;
+https://arxiv.org/abs/1902.10890
+Deep Learning and Gaussian Process based Band Assignment in Dual Band Systems
+Daoud Burghal;Rui Wang;Andreas F. Molisch;
+https://arxiv.org/abs/1902.10887
+Towards Robust ResNet: A Small Step but A Giant Leap
+Jingfeng Zhang;Bo Han;Laura Wynter;Kian Hsiang Low;Mohan Kankanhalli;
+https://arxiv.org/abs/1902.10885
+Face Recognition Under Varying Blur, Illumination and Expression in an Unconstrained Environment
+Anubha Pearline.S;Hemalatha.M;
+https://arxiv.org/abs/1902.10882
+Multi-convex Inequality-constrained Alternating Direction Method of Multipliers
+Junxiang Wang;Liang Zhao;Lingfei Wu;
+https://arxiv.org/abs/1902.10877
+Financial series prediction using Attention LSTM
+Sangyeon Kim;Myungjoo Kang;
+https://arxiv.org/abs/1902.10854
+Poster: On the Feasibility of Training Neural Networks with Visibly Watermarked Dataset
+Sanghyun Hong;Tae-hoon Kim;Tudor Dumitraş;Jonghyun Choi;
+https://arxiv.org/abs/1902.10849
+A novel dynamic asset allocation system using Feature Saliency Hidden Markov models for smart beta investing
+Elizabeth Fons;Paula Dawson;Jeffrey Yau;Xiao-jun Zeng;John Keane;
+https://arxiv.org/abs/1902.10848
+Machine-assisted annotation of forensic imagery
+Sara Mousavi;Ramin Nabati;Megan Kleeschulte;Audris Mockus;
+https://arxiv.org/abs/1902.10814
+Graph-RISE: Graph-Regularized Image Semantic Embedding
+Da-Cheng Juan;Chun-Ta Lu;Zhen Li;Futang Peng;Aleksei Timofeev;Yi-Ting Chen;Yaxi Gao;Tom Duerig;Andrew Tomkins;Sujith Ravi;
+https://arxiv.org/abs/1902.10811
+Do ImageNet Classifiers Generalize to ImageNet?
+Benjamin Recht;Rebecca Roelofs;Ludwig Schmidt;Vaishaal Shankar;
+https://arxiv.org/abs/1902.10810
+Learning Everywhere: Pervasive Machine Learning for Effective High-Performance Computation
+Geoffrey Fox;James A. Glazier;JCS Kadupitiya;Vikram Jadhao;Minje Kim;Judy Qiu;James P. Sluka;Endre Somogyi;Madhav Marathe;Abhijin Adiga;Jiangzhuo Chen;Oliver Beckstein;Shantenu Jha;
+https://arxiv.org/abs/1902.10807
+autoAx: An Automatic Design Space Exploration and Circuit Building Methodology utilizing Libraries of Approximate Components
+Vojtech Mrazek;Muhammad Abdullah Hanif;Zdenek Vasicek;Lukas Sekanina;Muhammad Shafique;
+https://arxiv.org/abs/1902.10799
+AutoGAN-based Dimension Reduction for Privacy Preservation
+Hung Nguyen;Di Zhuang;Pei-Yuan Wu;Morris Chang;
+https://arxiv.org/abs/1902.10798
+Learning Logistic Circuits
+Yitao Liang;Guy Van den Broeck;
+https://arxiv.org/abs/1902.10797
+Lipschitz Adaptivity with Multiple Learning Rates in Online Learning
+Zakaria Mhammedi;Wouter M. Koolen;Tim van Erven;
+https://arxiv.org/abs/1902.10785
+Semi-supervised Learning for Quantification of Pulmonary Edema in Chest X-Ray Images
+Ruizhi Liao;Jonathan Rubin;Grace Lam;Seth Berkowitz;Sandeep Dalal;William Wells;Steven Horng;Polina Golland;
+https://arxiv.org/abs/1902.10768
+Semi-supervised GANs to Infer Travel Modes in GPS Trajectories
+Ali Yazdizadeh;Zachary Patterson;Bilal Farooq;
+https://arxiv.org/abs/1902.10758
+Stochastically Rank-Regularized Tensor Regression Networks
+Arinbjörn Kolbeinsson;Jean Kossaifi;Yannis Panagakis;Anima Anandkumar;Ioanna Tzoulaki;Paul Matthews;
+https://arxiv.org/abs/1902.10756
+Insights into LSTM Fully Convolutional Networks for Time Series Classification
+Fazle Karim;Somshubra Majumdar;Houshang Darabi;
+https://arxiv.org/abs/1902.10755
+Adversarial Attacks on Time Series
+Fazle Karim;Somshubra Majumdar;Houshang Darabi;
+https://arxiv.org/abs/1902.10754
+Introspection Learning
+Chris R. Serrano;Michael A. Warren;
+https://arxiv.org/abs/1902.10747
+Nonlinear Markov Random Fields Learned via Backpropagation
+Mikael Brudfors;Yaël Balbastre;John Ashburner;
+https://arxiv.org/abs/1902.10739
+A Replication Study: Machine Learning Models Are Capable of Predicting Sexual Orientation From Facial Images
+John Leuner;
+https://arxiv.org/abs/1902.10733
+Shallow Water Bathymetry Mapping from UAV Imagery based on Machine Learning
+Panagiotis Agrafiotis;Dimitrios Skarlatos;Andreas Georgopoulos;Konstantinos Karantzalos;
+https://arxiv.org/abs/1902.10731
+Private Center Points and Learning of Halfspaces
+Amos Beimel;Shay Moran;Kobbi Nissim;Uri Stemmer;
+https://arxiv.org/abs/1902.10730
+Degenerate Feedback Loops in Recommender Systems
+Ray Jiang;Silvia Chiappa;Tor Lattimore;Andras Agyorgy;Pushmeet Kohli;
+https://arxiv.org/abs/1902.10710
+High probability generalization bounds for uniformly stable algorithms with nearly optimal rate
+Vitaly Feldman;Jan Vondrak;
+https://arxiv.org/abs/1902.10709
+Improved Concentration Bounds for Conditional Value-at-Risk and Cumulative Prospect Theory using Wasserstein distance
+Sanjay P. Bhat;Prashanth L.A;
+https://arxiv.org/abs/1902.10704
+Adaptive Gaussian Copula ABC
+Yanzhi Chen;Michael U. Gutmann;
+https://arxiv.org/abs/1902.10700
+A Deep-learning Approach for Prognosis of Age-Related Macular Degeneration Disease using SD-OCT Imaging Biomarkers
+Imon Banerjee;Luis de Sisternes;Joelle Hallak;Theodore Leng;Aaron Osborne;Mary Durbin;Daniel Rubin;
+https://arxiv.org/abs/1902.10697
+Integrated analysis of the urban water-electricity demand nexus in the Midwestern United States
+Renee Obringer;Rohini Kumar;Roshanak Nateghi;
+https://arxiv.org/abs/1902.10675
+High-Dimensional Bayesian Optimization with Manifold Gaussian Processes
+Riccardo Moriconi;K. S. Sesh Kumar;Marc P. Deisenroth;
+https://arxiv.org/abs/1902.10674
+Communication without Interception: Defense against Deep-Learning-based Modulation Detection
+Muhammad Zaid Hameed;Andras Gyorgy;Deniz Gunduz;
+https://arxiv.org/abs/1902.10666
+Improving Missing Data Imputation with Deep Generative Models
+Ramiro D. Camino;Christian A. Hammerschmidt;Radu State;
+https://arxiv.org/abs/1902.10664
+Local Bandwidth Estimation via Mixture of Gaussian Processes
+Danny Panknin;Shinichi Nakajima;Thanh Binh Bui;Klaus-Robert Müller;
+https://arxiv.org/abs/1902.10660
+Robust Decision Trees Against Adversarial Examples
+Hongge Chen;Huan Zhang;Duane Boning;Cho-Jui Hsieh;
+https://arxiv.org/abs/1902.10658
+Regularity Normalization: Constraining Implicit Space with Minimum Description Length
+Baihan Lin;
+https://arxiv.org/abs/1902.10657
+From explanation to synthesis: Compositional program induction for learning from demonstration
+Michael Burke;Svetlin Penkov;Subramanian Ramamoorthy;
+https://arxiv.org/abs/1902.10644
+Provable Guarantees for Gradient-Based Meta-Learning
+Mikhail Khodak;Maria-Florina Balcan;Ameet Talwalkar;
+https://arxiv.org/abs/1902.10630
+Alternating Synthetic and Real Gradients for Neural Language Modeling
+Fangxin Shang;Hao Zhang;
+https://arxiv.org/abs/1902.10590
+Architecting Dependable Learning-enabled Autonomous Systems: A Survey
+Chih-Hong Cheng;Dhiraj Gulati;Rongjie Yan;
+https://arxiv.org/abs/1902.10584
+When a Tweet is Actually Sexist. A more Comprehensive Classification of Different Online Harassment Categories and The Challenges in NLP
+Sima Sharifirad;Stan Matwin;
+https://arxiv.org/abs/1902.10582
+Polynomial-time Algorithms for Combinatorial Pure Exploration with Full-bandit Feedback
+Yuko Kuroki;Liyuan Xu;Atsushi Miyauchi;Junya Honda;Masashi Sugiyama;

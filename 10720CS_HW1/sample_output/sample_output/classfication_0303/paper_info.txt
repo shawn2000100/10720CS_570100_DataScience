@@ -1,0 +1,300 @@
+https://arxiv.org/abs/1902.11274
+A CNN-RNN Framework with a Novel Patch-Based Multi-Attention Mechanism for Multi-Label Image Classification in Remote Sensing
+Gencer Sumbul;Begüm Demir;
+https://arxiv.org/abs/1902.11264
+$C_0$-positivity and a classification of closed three-dimensional CR torsion solitons
+Huai-Dong Cao;Shu-Cheng Chang;Chih-Wei Chen;
+https://arxiv.org/abs/1902.11245
+Incorporating End-to-End Speech Recognition Models for Sentiment Analysis
+Egor Lakomkin;Mohammad Ali Zamani;Cornelius Weber;Sven Magg;Stefan Wermter;
+https://arxiv.org/abs/1902.11237
+A new Backdoor Attack in CNNs by training set corruption without label poisoning
+Mauro Barni;Kassem Kallas;Benedetta Tondi;
+https://arxiv.org/abs/1902.11187
+Analysis of non-stationary multicomponent signals with a focus on the Compressive Sensing approach
+Andjela Draganic;
+https://arxiv.org/abs/1902.11145
+Adversarial Training for Satire Detection: Controlling for Confounding Variables
+Robert McHardy;Heike Adel;Roman Klinger;
+https://arxiv.org/abs/1902.11134
+Disentangled Deep Autoencoding Regularization for Robust Image Classification
+Zhenyu Duan;Martin Renqiang Min;Li Erran Li;Mingbo Cai;Yi Xu;Bingbing Ni;
+https://arxiv.org/abs/1902.11133
+Bengali Handwritten Character Classification using Transfer Learning on Deep Convolutional Neural Network
+Swagato Chatterjee;Rwik Kumar Dutta;Debayan Ganguly;Kingshuk Chatterjee;Sudipta Roy;
+https://arxiv.org/abs/1902.11131
+Unsupervised Segmentation Algorithms' Implementation in ITK for Tissue Classification via Human Head MRI Scans
+Shadman Sakib;Md. Abu Bakr Siddique;
+https://arxiv.org/abs/1902.11130
+Real-Time detection, classification and DOA estimation of Unmanned Aerial Vehicle
+Konstantinos Polyzos;Evangelos Dermatas;
+https://arxiv.org/abs/1902.11128
+FixyNN: Efficient Hardware for Mobile Computer Vision via Transfer Learning
+Paul N. Whatmough;Chuteng Zhou;Patrick Hansen;Shreyas Kolala Venkataramanaiah;Jae-sun Seo;Matthew Mattina;
+https://arxiv.org/abs/1902.11119
+Image Classification on IoT Edge Devices: Profiling and Modeling
+Salma Abdel Magid;Francesco Petrini;Behnam Dezfouli;
+https://arxiv.org/abs/1902.11118
+Spatio-Temporal Waveform Design in Active Sensing Systems with Multilayer Targets
+Ali Kariminezhad;Aydin Sezgin;
+https://arxiv.org/abs/1902.11114
+Imaging and Classification Techniques for Seagrass Mapping and Monitoring: A Comprehensive Survey
+Md Moniruzzaman;S. M. Shamsul Islam;Paul Lavery;Mohammed Bennamoun;C. Peng Lam;
+https://arxiv.org/abs/1902.11111
+Target-based Hyperspectral Demixing via Generalized Robust PCA
+Sirisha Rambhatla;Xingguo Li;Jarvis Haupt;
+https://arxiv.org/abs/1902.11107
+Channel Max Pooling Layer for Fine-Grained Vehicle Classification
+Zhanyu Ma;Dongliang Chang;Xiaoxu Li;
+https://arxiv.org/abs/1902.11093
+Some comments on symmetric orbifolds of K3
+Roberto Volpato;
+https://arxiv.org/abs/1902.11089
+Real-time 3D Shape Instantiation for Partially-deployed Stent Segment from a Single 2D Fluoroscopic Image in Robot-assisted Fenestrated Endovascular Aortic Repair
+Jian-Qing Zheng;Xiao-Yun Zhou;Guang-Zhong Yang;
+https://arxiv.org/abs/1902.11074
+AFS: An Attention-based mechanism for Supervised Feature Selection
+Ning Gui;Danni Ge;Ziyin Hu;
+https://arxiv.org/abs/1902.11060
+Context-aware Neural-based Dialog Act Classification on Automatically Generated Transcriptions
+Daniel Ortega;Chia-Yu Li;Gisela Vallejo;Pavel Denisov;Ngoc Thang Vu;
+https://arxiv.org/abs/1902.11053
+Generalized XOR non-locality games with graph description on a square lattice
+Monika Rosicka;Paweł Mazurek;Andrzej Grudka;Michał Horodecki;
+https://arxiv.org/abs/1902.11045
+Virtual Adversarial Training on Graph Convolutional Networks in Node Classification
+Ke Sun;Hantao Guo;Zhanxing Zhu;Zhouchen Lin;
+https://arxiv.org/abs/1902.10949
+Context-aware Dynamic Block
+Yingcheng Su;Shunfeng Zhou;Yichao Wu;Xuebo Liu;Tian Su;Ding Liang;Junjie Yan;
+https://arxiv.org/abs/1902.10946
+Look, Investigate, and Classify: A Deep Hybrid Attention Method for Breast Cancer Classification
+Bolei Xu;Jingxin Liu;Xianxu Hou;Bozhi Liu;Jon Garibaldi;Ian O. Ellis;Andy Green;Linlin Shen;Guoping Qiu;
+https://arxiv.org/abs/1902.10909
+BERT for Joint Intent Classification and Slot Filling
+Qian Chen;Zhu Zhuo;Wen Wang;
+https://arxiv.org/abs/1902.10885
+Face Recognition Under Varying Blur, Illumination and Expression in an Unconstrained Environment
+Anubha Pearline.S;Hemalatha.M;
+https://arxiv.org/abs/1902.10858
+Cascaded Recurrent Neural Networks for Hyperspectral Image Classification
+Renlong Hang;Qingshan Liu;Danfeng Hong;Pedram Ghamisi;
+https://arxiv.org/abs/1902.10854
+Poster: On the Feasibility of Training Neural Networks with Visibly Watermarked Dataset
+Sanghyun Hong;Tae-hoon Kim;Tudor Dumitraş;Jonghyun Choi;
+https://arxiv.org/abs/1902.10848
+Machine-assisted annotation of forensic imagery
+Sara Mousavi;Ramin Nabati;Megan Kleeschulte;Audris Mockus;
+https://arxiv.org/abs/1902.10814
+Graph-RISE: Graph-Regularized Image Semantic Embedding
+Da-Cheng Juan;Chun-Ta Lu;Zhen Li;Futang Peng;Aleksei Timofeev;Yi-Ting Chen;Yaxi Gao;Tom Duerig;Andrew Tomkins;Sujith Ravi;
+https://arxiv.org/abs/1902.10811
+Do ImageNet Classifiers Generalize to ImageNet?
+Benjamin Recht;Rebecca Roelofs;Ludwig Schmidt;Vaishaal Shankar;
+https://arxiv.org/abs/1902.10798
+Learning Logistic Circuits
+Yitao Liang;Guy Van den Broeck;
+https://arxiv.org/abs/1902.10758
+Stochastically Rank-Regularized Tensor Regression Networks
+Arinbjörn Kolbeinsson;Jean Kossaifi;Yannis Panagakis;Anima Anandkumar;Ioanna Tzoulaki;Paul Matthews;
+https://arxiv.org/abs/1902.10756
+Insights into LSTM Fully Convolutional Networks for Time Series Classification
+Fazle Karim;Somshubra Majumdar;Houshang Darabi;
+https://arxiv.org/abs/1902.10755
+Adversarial Attacks on Time Series
+Fazle Karim;Somshubra Majumdar;Houshang Darabi;
+https://arxiv.org/abs/1902.10722
+Glide-resolved photoemission spectroscopy: measuring topological invariants in nonsymmorphic space groups
+A. Alexandradinata;Zhijun Wang;B. Andrei Bernevig;Michael Zaletel;
+https://arxiv.org/abs/1902.10708
+Quasi-Bayes properties of a recursive procedure for mixtures
+Sandra Fortini;Sonia Petrone;
+https://arxiv.org/abs/1902.10665
+Quartic graphs which are Bakry-Émery curvature sharp
+David Cushing;Supanat Kamtue;Norbert Peyerimhoff;Leyna Watson May;
+https://arxiv.org/abs/1902.10664
+Local Bandwidth Estimation via Mixture of Gaussian Processes
+Danny Panknin;Shinichi Nakajima;Thanh Binh Bui;Klaus-Robert Müller;
+https://arxiv.org/abs/1902.10649
+F10-SGD: Fast Training of Elastic-net Linear Models for Text Classification and Named-entity Recognition
+Stanislav Peshterliev;Alexander Hsieh;Imre Kiss;
+https://arxiv.org/abs/1902.10640
+Efficient Video Classification Using Fewer Frames
+Shweta Bhardwaj;Mukundhan Srinivasan;Mitesh M. Khapra;
+https://arxiv.org/abs/1902.10634
+Synthesis of the Morphological Description of Cometary Dust at Comet 67P
+C. Güttler;T. Mannel;A. Rotundi;S. Merouane;M. Fulle;D. Bockelée-Morvan;J. Lasue;A. C. Levasseur-Regourd;J. Blum;G. Naletto;H. Sierks;M. Hilchenbach;C. Tubiana;F. Capaccioni;J. A. Paquette;A. Flandes;F. Moreno;J. Agarwal;D. Bodewits;I. Bertini;G. P. Tozzi;K. Hornung;Y. Langevin;H. Krüger;A. Longobardo;V. Della Corte;I. Tóth;G. Filacchione;S. L. Ivanovski;S. Mottola;G. Rinaldi;
+https://arxiv.org/abs/1902.10626
+Identifying Galaxy Mergers in Observations and Simulations with Deep Learning
+W. J. Pearson;L. Wang;J. W. Trayford;C. E. Petrillo;F. F. S. van der Tak;
+https://arxiv.org/abs/1902.10623
+Zoho at SemEval-2019 Task 9: Semi-supervised Domain Adaptation using Tri-training for Suggestion Mining
+Sai Prasanna;Sri Ananda Seelan;
+https://arxiv.org/abs/1902.10611
+Keck HIRES Spectroscopy of SkyMapper Commissioning Survey Candidate Extremely Metal-Poor Stars
+A. F. Marino;G. S. Da Costa;A. R. Casey;M. Asplund;M. S. Bessell;A. Frebel;S. C. Keller;K. Lind;A. D. Mackey;S. J. Murphy;T. Nordlander;J. E. Norris;B. P. Schmidt;D. Yong;
+https://arxiv.org/abs/1902.10584
+When a Tweet is Actually Sexist. A more Comprehensive Classification of Different Online Harassment Categories and The Challenges in NLP
+Sima Sharifirad;Stan Matwin;
+https://arxiv.org/abs/1902.10547
+An Embarrassingly Simple Approach for Transfer Learning from Pretrained Language Models
+Alexandra Chronopoulou;Christos Baziotis;Alexandros Potamianos;
+https://arxiv.org/abs/1902.10528
+Attributes-aided Part Detection and Refinement for Person Re-identification
+Shuzhao Li;Huimin Yu;Wei Huang;Jing Zhang;
+https://arxiv.org/abs/1902.10482
+Few-Shot Text Classification with Induction Network
+Ruiying Geng;Binhua Li;Yongbin Li;Yuxiao Ye;Ping Jian;Jian Sun;
+https://arxiv.org/abs/1902.10441
+Fix Your Features: Stationary and Maximally Discriminative Embeddings using Regular Polytope (Fixed Classifier) Networks
+Federico Pernici;Matteo Bruni;Claudio Baecchi;Alberto Del Bimbo;
+https://arxiv.org/abs/1902.10421
+FickleNet: Weakly and Semi-supervised Semantic Image Segmentation\\using Stochastic Inference
+Jungbeom Lee;Eunji Kim;Sungmin Lee;Jangho Lee;Sungroh Yoon;
+https://arxiv.org/abs/1902.10385
+Reducing Artificial Neural Network Complexity: A Case Study on Exoplanet Detection
+Sebastiaan Koning;Caspar Greeven;Eric Postma;
+https://arxiv.org/abs/1902.10365
+Multiple Kernel Learning from $U$-Statistics of Empirical Measures in the Feature Space
+Masoud Badiei Khuzani;Hongyi Ren;Varun Vasudevan;Lei Xing;
+https://arxiv.org/abs/1902.10364
+Multi-loss-aware Channel Pruning of Deep Networks
+Yiming Hu;Siyang Sun;Jianquan Li;Jiagang Zhu;Xingang Wang;Qingyi Gu;
+https://arxiv.org/abs/1902.10363
+The Importance of Metric Learning for Robotic Vision: Open Set Recognition and Active Learning
+Benjamin J. Meyer;Tom Drummond;
+https://arxiv.org/abs/1902.10339
+How Large a Vocabulary Does Text Classification Need? A Variational Approach to Vocabulary Selection
+Wenhu Chen;Yu Su;Yilin Shen;Zhiyu Chen;Xifeng Yan;William Wang;
+https://arxiv.org/abs/1902.10319
+Neural Packet Classification
+Eric Liang;Hang Zhu;Xin Jin;Ion Stoica;
+https://arxiv.org/abs/1902.10311
+Aurora Guard: Real-Time Face Anti-Spoofing via Light Reflection
+Yao Liu;Ying Tai;Jilin Li;Shouhong Ding;Chengjie Wang;Feiyue Huang;Dongyang Li;Wenshuai Qi;Rongrong Ji;
+https://arxiv.org/abs/1902.10285
+Classification of Quantum Cellular Automata
+M. Freedman;M. B. Hastings;
+https://arxiv.org/abs/1902.10260
+Exploiting Population Activity Dynamics to Predict Urban Epidemiological Incidence
+Gergana Todorova;Anastasios Noulas;
+https://arxiv.org/abs/1902.10247
+Deep Sentiment Analysis using a Graph-based Text Representation
+Kayvan Bijari;Hadi Zare;Hadi Veisi;Emad Kebriaei;
+https://arxiv.org/abs/1902.10246
+Fixed-Size Ordinally Forgetting Encoding Based Word Sense Disambiguation
+Xi Zhu;Mingbin Xu;Hui Jiang;
+https://arxiv.org/abs/1902.10238
+A Dictionary-Based Generalization of Robust PCA Part II: Applications to Hyperspectral Demixing
+Sirisha Rambhatla;Xingguo Li;Jineng Ren;Jarvis Haupt;
+https://arxiv.org/abs/1902.10224
+Prediction of the disease controllability in a complex network using machine learning algorithms
+Richa Tripathi;Amit Reza;Dinesh Garg;
+https://arxiv.org/abs/1902.10201
+Curves with more than one inner Galois point
+Gábor Korchmáros;Stefano Lia;Marco Timpanella;
+https://arxiv.org/abs/1902.10191
+EvolveGCN: Evolving Graph Convolutional Networks for Dynamic Graphs
+Aldo Pareja;Giacomo Domeniconi;Jie Chen;Tengfei Ma;Toyotaro Suzumura;Hiroki Kanezashi;Tim Kaler;Charles E. Leisersen;
+https://arxiv.org/abs/1902.10126
+BUT-FIT at SemEval-2019 Task 7: Determining the Rumour Stance with Pre-Trained Deep Bidirectional Transformers
+Martin Fajcik;Lukáš Burget;Pavel Smrz;
+https://arxiv.org/abs/1902.10073
+Diagnosis of Autism Spectrum Disorder by Causal Influence Strength Learned from Resting-State fMRI Data
+Biwei Huang;Kun Zhang;Ruben Sanchez-Romero;Joseph Ramsey;Madelyn Glymour;Clark Glymour;
+https://arxiv.org/abs/1902.10070
+Warped phase coherence: an empirical synchronization measure combining phase and amplitude information
+Ludovico Minati;Natsue Yoshimura;Mattia Frasca;Stanislaw Drozdz;Yasuharu Koike;
+https://arxiv.org/abs/1902.10063
+Acoustic scene classification using multi-layer temporal pooling based on convolutional neural network
+Liwen Zhang;Jiqing Han;
+https://arxiv.org/abs/1902.10030
+Residual-CNDS for Grand Challenge Scene Dataset
+Hussein A. Al-Barazanchi;Hussam Qassim;David Feinzimer;Abhishek Verma;
+https://arxiv.org/abs/1902.09981
+Vehicle Classification Based on Seismic Signatures with Weighted Intrinsic Mode Functions
+Guozheng Jin;
+https://arxiv.org/abs/1902.09972
+Design of intentional backdoors in sequential models
+Zhaoyuan Yang;Naresh Iyer;Johan Reimann;Nurali Virani;
+https://arxiv.org/abs/1902.09962
+Epileptic seizure classification using statistical sampling and a novel feature selection algorithm
+Md Mursalin;Syed Shamsul Islam;Md Kislu Noman;
+https://arxiv.org/abs/1902.09941
+Unsupervised Part Mining for Fine-grained Image Classification
+Jian Zhang;Runsheng Zhang;Yaping Huang;Qi Zou;
+https://arxiv.org/abs/1902.09936
+Learning Vertex Convolutional Networks for Graph Classification
+Lu Bai;Lixin Cui;Shu Wu;Yuhang Jiao;Edwin R. Hancock;
+https://arxiv.org/abs/1902.09934
+A Fully-Automatic Framework for Parkinson's Disease Diagnosis by Multi-Modality Images
+Jiahang Xu;Fangyang Jiao;Yechong Huang;Xinzhe Luo;Qian Xu;Ling Li;Xueling Liu;Chuantao Zuo;Ping Wu;Xiahai Zhuang;
+https://arxiv.org/abs/1902.09913
+HexaGAN: Generative Adversarial Nets for Real World Classification
+Uiwon Hwang;Dahuin Jung;Sungroh Yoon;
+https://arxiv.org/abs/1902.09904
+Diagnosis of Alzheimer's Disease via Multi-modality 3D Convolutional Neural Network
+Yechong Huang;Jiahang Xu;Yuncheng Zhou;Tong Tong;Xiahai Zhuang;Alzheimer's Disease Neuroimaging Initiative;
+https://arxiv.org/abs/1902.09866
+Analyzing Deep Neural Networks with Symbolic Propagation: Towards Higher Precision and Faster Verification
+Pengfei Yang;Jiangchao Liu;Jianlin Li;Liqian Chen;Xiaowei Huang;
+https://arxiv.org/abs/1902.09854
+FliPer$_{Class}$: In search of solar-like pulsators among TESS targets
+L. Bugnet;R. A. García;S. Mathur;G. R. Davies;O. J. Hall;M. N. Lund;B. M. Rendle;
+https://arxiv.org/abs/1902.09839
+Capsule Neural Network based Height Classification using Low-Cost Automotive Ultrasonic Sensors
+Maximilian Pöpperl;Raghavendra Gulagundi;Senthil Yogamani;Stefan Milz;
+https://arxiv.org/abs/1902.09811
+LaSO: Label-Set Operations networks for multi-label few-shot learning
+Amit Alfassy;Leonid Karlinsky;Amit Aides;Joseph Shtok;Sivan Harary;Rogerio Feris;Raja Giryes;Alex M. Bronstein;
+https://arxiv.org/abs/1902.09809
+Recurrent Convolution for Compact and Cost-Adjustable Neural Networks: An Empirical Study
+Zhendong Zhang;Cheolkon Jung;
+https://arxiv.org/abs/1902.09802
+Semantic Hilbert Space for Text Representation Learning
+Benyou Wang;Qiuchi Li;Massimo Melucci;Dawei Song;
+https://arxiv.org/abs/1902.09765
+Directional Embedding Based Semi-supervised Framework For Bird Vocalization Segmentation
+Anshul Thakur;Padmanabhan Rajan;
+https://arxiv.org/abs/1902.09749
+Analyzing the Use of Camera Glasses in the Wild
+Taryn Bipat;Maarten Willem Bos;Rajan Vaish;Andrés Monroy-Hernández;
+https://arxiv.org/abs/1902.09723
+Syntactic Recurrent Neural Network for Authorship Attribution
+Fereshteh Jafariakinabad;Sansiri Tarnpradab;Kien A. Hua;
+https://arxiv.org/abs/1902.09720
+Learning a Deep ConvNet for Multi-label Classification with Partial Labels
+Thibaut Durand;Nazanin Mehrasa;Greg Mori;
+https://arxiv.org/abs/1902.09713
+Structure Tree-LSTM: Structure-aware Attentional Document Encoders
+Khalil Mrini;Claudiu Musat;Michael Baeriswyl;Martin Jaggi;
+https://arxiv.org/abs/1902.09701
+Learning Implicitly Recurrent CNNs Through Parameter Sharing
+Pedro Savarese;Michael Maire;
+https://arxiv.org/abs/1902.09692
+QLMC-HD: Quasi Large Margin Classifier based on Hyperdisk
+Hassan Ataeian;Shahriar Esmaeili;Ali Amiri;Neda Maleki Khas;Hossein Safari;
+https://arxiv.org/abs/1902.09690
+Self-Selective Correlation Ship Tracking Method for Smart Ocean System
+Xu Kang;Bin Song;Jie Guo;Xiaojiang Du;Mohsen Guizani;
+https://arxiv.org/abs/1902.09678
+The PVBS models are gapped for all species numbers and all dimensions
+Marius Lemm;Bruno Nachtergaele;
+https://arxiv.org/abs/1902.09674
+Developing and Using Special-Purpose Lexicons for Cohort Selection from Clinical Notes
+Samarth Rawal;Ashok Prakash;Soumya Adhya;Sidharth Kulkarni;Saadat Anwar;Chitta Baral;Murthy Devarakonda;
+https://arxiv.org/abs/1902.09666
+Predicting the Type and Target of Offensive Posts in Social Media
+Marcos Zampieri;Shervin Malmasi;Preslav Nakov;Sara Rosenthal;Noura Farra;Ritesh Kumar;
+https://arxiv.org/abs/1902.09602
+Interpreting Active Learning Methods Through Information Losses
+Brandon Foggo;Nanpeng Yu;
+https://arxiv.org/abs/1902.09548
+Passive galaxies in the early Universe: ALMA confirmation of z~3-5 candidates in the CANDELS GOODS-South field
+P. Santini;E. Merlin;A. Fontana;B. Magnelli;D. Paris;M. Castellano;A. Grazian;L. Pentericci;S. Pilo;M. Torelli;
+https://arxiv.org/abs/1902.09522
+The large-scale environment from cosmological simulations II: The redshift evolution and distributions of baryons
+Weiguang Cui;Alexander Knebe;Noam I. Libeskind;Susana Planelles;Xiaohu Yang;Wei Cui;Romeel Dave;Xi Kang;Robert Mostoghiu;Lister Staveley-Smith;Huiyuan Wang;Peng Wang;Gustavo Yepes;
+https://arxiv.org/abs/1902.09405
+Rotational hypersurfaces of prescribed mean curvature
+Antonio Bueno;Jose A. Galvez;Pablo Mira;

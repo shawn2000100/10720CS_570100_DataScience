@@ -1,0 +1,300 @@
+https://arxiv.org/abs/1902.10999
+Evaluation of Frequent Itemset Mining Platforms using Apriori and FP-Growth Algorithm
+Ravi Ranjan;Aditi Sharma;
+https://arxiv.org/abs/1902.10865
+A Survey on Applications of Game Theory in Blockchain
+Ziyao Liu;Nguyen Cong Luong;Wenbo Wang;Dusit Niyato;Ping Wang;Ying-Chang Liang;Dong In Kim;
+https://arxiv.org/abs/1902.10799
+AutoGAN-based Dimension Reduction for Privacy Preservation
+Hung Nguyen;Di Zhuang;Pei-Yuan Wu;Morris Chang;
+https://arxiv.org/abs/1902.10623
+Zoho at SemEval-2019 Task 9: Semi-supervised Domain Adaptation using Tri-training for Suggestion Mining
+Sai Prasanna;Sri Ananda Seelan;
+https://arxiv.org/abs/1902.10247
+Deep Sentiment Analysis using a Graph-based Text Representation
+Kayvan Bijari;Hadi Zare;Hadi Veisi;Emad Kebriaei;
+https://arxiv.org/abs/1902.10102
+A multimodal movie review corpus for fine-grained opinion mining
+Alexandre Garcia;Slim Essid;Florence d'Alché-Buc;Chloé Clavel;
+https://arxiv.org/abs/1902.10031
+A framework for information extraction from tables in biomedical literature
+Nikola Milosevic;Cassie Gregson;Robert Hernandez;Goran Nenadic;
+https://arxiv.org/abs/1902.09968
+Mining Objects: Fully Unsupervised Object Discovery and Localization From a Single Image
+Runsheng Zhang;Yaping Huang;Mengyang Pu;Qingji Guan;Jian Zhang;Qi Zou;
+https://arxiv.org/abs/1902.09586
+Utility-driven Data Analytics on Uncertain Data
+Wensheng Gan;Jerry Chun-Wei Lin;Han-Chieh Chao;Athanasios V. Vasilakos;Philip S. Yu;
+https://arxiv.org/abs/1902.09584
+Beyond Frequency: Utility Mining with Varied Item-Specific Minimum Utility
+Wensheng Gan;Jerry Chun-Wei Lin;Philippe Fournier-Viger;Han-Chieh Chao;Philip S Yu;
+https://arxiv.org/abs/1902.09582
+Utility Mining Across Multi-Dimensional Sequences
+Wensheng Gan;Jerry Chun-Wei Lin;Jiexiong Zhang;Hongzhi Yin;Philippe Fournier-Viger;Han-Chieh Chao;Philip S. Yu;
+https://arxiv.org/abs/1902.08862
+$Λp$ Elastic Scattering in the CLAS Detector
+John W. Price;
+https://arxiv.org/abs/1902.08737
+Linky: Visualizing User Identity Linkage Results For Multiple Online Social Networks
+Roy Ka-Wei Lee;Ming Shan Hee;Philips Kokoh Prasetyo;Ee-Peng Lim;
+https://arxiv.org/abs/1902.08670
+Discriminative Pattern Mining for Breast Cancer Histopathology Image Classification via Fully Convolutional Autoencoder
+Xingyu Li;Marko Radulovic;Ksenija Kanjer;Konstantinos N. Plataniotis;
+https://arxiv.org/abs/1902.08455
+Fine-grained Search Space Classification for Hard Enumeration Variants of Subset Problems
+Juho Lauri;Sourav Dutta;
+https://arxiv.org/abs/1902.07901
+Continuous Outlier Mining of Streaming Data in Flink
+Theodoros Toliopoulos;Anastasios Gounaris;Kostas Tsichlas;Apostolos Papadopoulos;Sandra Sampaio;
+https://arxiv.org/abs/1902.07165
+Comparing Apples and Oranges: Measuring Differences between Data Mining Results
+Nikolaj Tatti;Jilles Vreeken;
+https://arxiv.org/abs/1902.07159
+Edge Replacement Grammars: A Formal Language Approach for Generating Graphs
+Revanth Reddy;Sarath Chandar;Balaraman Ravindran;
+https://arxiv.org/abs/1902.06743
+Finding Robust Itemsets Under Subsampling
+Nikolaj Tatti;Fabian Moerchen;
+https://arxiv.org/abs/1902.06687
+RACE: Sub-Linear Memory Sketches for Approximate Near-Neighbor Search on Streaming Data
+Benjamin Coleman;Anshumali Shrivastava;Richard G. Baraniuk;
+https://arxiv.org/abs/1902.06672
+Big Data and Geospatial Analysis
+Guy Lansley;Michael de Smith;Michael Goodchild;Paul Longley;
+https://arxiv.org/abs/1902.05975
+Inversion-Free Evaluation of Nearest Neighbors in Method of Moments
+Miloslav Capek;Lukas Jelinek;Mats Gustafsson;
+https://arxiv.org/abs/1902.05684
+Crime Analysis using Open Source Information
+Sarwat Nizamani;Nasrullah Memon;Azhar Ali Shah;Sehrish Nizamani;Saad Nizamani;Imdad Ali Ismaili;
+https://arxiv.org/abs/1902.05380
+Understanding Beauty via Deep Facial Features
+Xudong Liu;Tao Li;Hao Peng;Iris Chuoying Ouyang;Taehwan Kim;Ruizhe Wang;
+https://arxiv.org/abs/1902.04484
+A Domain Generalization Perspective on Listwise Context Modeling
+Lin Zhu;Yihong Chen;Bowen He;
+https://arxiv.org/abs/1902.04060
+Replication Can Improve Prior Results: A GitHub Study of Pull Request Acceptance
+Di Chen;Kathyrn Stolee;Tim Menzies;
+https://arxiv.org/abs/1902.03825
+Prediction of Malignant & Benign Breast Cancer: A Data Mining Approach in Healthcare Applications
+Vivek Kumar;Brojo Kishore Mishra;Manuel Mazzara;Dang N. H. Thanh;Abhishek Verma;
+https://arxiv.org/abs/1902.03616
+ELKI: A large open-source library for data analysis - ELKI Release 0.7.5 "Heidelberg"
+Erich Schubert;Arthur Zimek;
+https://arxiv.org/abs/1902.03609
+Hybrid Forest: A Concept Drift Aware Data Stream Mining Algorithm
+Radin Hamidi Rad;Maryam Amir Haeri;
+https://arxiv.org/abs/1902.03317
+PASTA: A Parallel Sparse Tensor Algorithm Benchmark Suite
+Jiajia Li;Yuchen Ma;Xiaolong Wu;Ang Li;Kevin Barker;
+https://arxiv.org/abs/1902.03297
+Probably the Best Itemsets
+Nikolaj Tatti;
+https://arxiv.org/abs/1902.03296
+Efficient Power Theft Detection for Residential Consumers Using Mean Shift Data Mining Knowledge Discovery Process
+Konstantinos Blazakis;Georgios Stavrakakis;
+https://arxiv.org/abs/1902.03102
+Using Background Knowledge to Rank Itemsets
+Nikolaj Tatti;Michael Mampaey;
+https://arxiv.org/abs/1902.02861
+Discovering Descriptive Tile Trees by Mining Optimal Geometric Subtiles
+Nikolaj Tatti;Jilles Vreeken;
+https://arxiv.org/abs/1902.02834
+The Long and the Short of It: Summarising Event Sequences with Serial Episodes
+Nikolaj Tatti;Jilles Vreeken;
+https://arxiv.org/abs/1902.02755
+Significance of Episodes Based on Minimal Windows
+Nikolaj Tatti;
+https://arxiv.org/abs/1902.02507
+Towards Autoencoding Variational Inference for Aspect-based Opinion Summary
+Tai Hoang;Huy Le;Tho Quan;
+https://arxiv.org/abs/1902.02412
+A Bayesian Approach for Accurate Classification-Based Aggregates
+Q. A. Meertens;C. G. H. Diks;H. J. van den Herik;F W Takes;
+https://arxiv.org/abs/1902.01727
+Discovering bursts revisited: guaranteed optimization of the model parameters
+Nikolaj Tatti;
+https://arxiv.org/abs/1902.01659
+Temporal Convolutional Networks and Dynamic Time Warping can Drastically Improve the Early Prediction of Sepsis
+Michael Moor;Max Horn;Bastian Rieck;Damian Roqueiro;Karsten Borgwardt;
+https://arxiv.org/abs/1902.01483
+Discovering Nested Communities
+Nikolaj Tatti;Aristides Gionis;
+https://arxiv.org/abs/1902.01437
+Blaze: Simplified High Performance Cluster Computing
+Junhao Li;Hang Zhang;
+https://arxiv.org/abs/1902.01334
+Distances between Data Sets Based on Summary Statistics
+Nikolaj Tatti;
+https://arxiv.org/abs/1902.01002
+Ranking Episodes using a Partition Model
+Nikolaj Tatti;
+https://arxiv.org/abs/1902.00804
+Itemsets for Real-valued Datasets
+Nikolaj Tatti;
+https://arxiv.org/abs/1902.00496
+Examining the Presence of Gender Bias in Customer Reviews Using Word Embedding
+A. Mishra;H. Mishra;S. Rathee;
+https://arxiv.org/abs/1902.00475
+Clubmark: a Parallel Isolation Framework for Benchmarking and Profiling Clustering Algorithms on NUMA Architectures
+Artem Lutov;Mourad Khayati;Philippe Cudré-Mauroux;
+https://arxiv.org/abs/1901.11376
+Learning of High Dengue Incidence with Clustering and FP-Growth Algorithm using WHO Historical Data
+Franz Stewart V. Dizon;Stephen Kyle R. Farinas;Reynaldo John Tristan H. Mahinay Jr.;Harry S. Pardo;Cecil Jose A. Delfinado;
+https://arxiv.org/abs/1901.11040
+The Wilderness Area Data Set: Adapting the Covertype data set for unsupervised learning
+Richard Hugh Moulton;Jakub Zgraja;
+https://arxiv.org/abs/1901.10855
+Predictive Maintenance in Photovoltaic Plants with a Big Data Approach
+Alessandro Betti;Maria Luisa Lo Trovato;Fabio Salvatore Leonardi;Giuseppe Leotta;Fabrizio Ruffini;Ciro Lanzetta;
+https://arxiv.org/abs/1901.10530
+An Advanced Conceptual Diagnostic Healthcare Framework for Diabetes and Cardiovascular Disorders
+M. Sharma;G. Singh;R. Singh;
+https://arxiv.org/abs/1901.10257
+A new tidy data structure to support exploration and modeling of temporal data
+Earo Wang;Dianne Cook;Rob J Hyndman;
+https://arxiv.org/abs/1901.10177
+Unsupervised Person Re-identification by Deep Asymmetric Metric Embedding
+Hong-Xing Yu;Ancong Wu;Wei-Shi Zheng;
+https://arxiv.org/abs/1901.10084
+A Parallel Projection Method for Metric Constrained Optimization
+Cameron Ruggles;Nate Veldt;David F. Gleich;
+https://arxiv.org/abs/1901.09565
+Fairness in representation: quantifying stereotyping as a representational harm
+Mohsen Abbasi;Sorelle A. Friedler;Carlos Scheidegger;Suresh Venkatasubramanian;
+https://arxiv.org/abs/1901.09487
+2DMatPedia: An open computational database of two-dimensional materials from top-down and bottom-up approaches
+Jun Zhou;Lei Shen;Miguel Dias Costa;Kristin A. Persson;Shyue Ping Ong;Patrick Huck;Yunhao Lu;Xiaoyang Ma;Yuan Ping Feng;
+https://arxiv.org/abs/1901.09374
+Authentication and Authorization for Mobile IoT Devices using Bio-features: Recent Advances and Future Trends
+Mohamed Amine Ferrag;Leandros Maglaras;Abdelouahid Derhab;
+https://arxiv.org/abs/1901.09082
+A Kalman filtering induced heuristic optimization based partitional data clustering
+Arjun Pakrashi;Bidyut B. Chaudhuri;
+https://arxiv.org/abs/1901.08754
+Cluster-mining: An approach for determining core structures of metallic nanoparticles from atomic pair distribution function data
+Soham Banerjee;Chia-Hao Liu;Kirsten M. O. Jensen;Pavol Juhas;Jennifer D. Lee;Marcus Tofanelli;Christopher J. Ackerson;Christopher B. Murray;Simon J. L. Billinge;
+https://arxiv.org/abs/1901.08746
+BioBERT: a pre-trained biomedical language representation model for biomedical text mining
+Jinhyuk Lee;Wonjin Yoon;Sungdong Kim;Donghyeon Kim;Sunkyu Kim;Chan Ho So;Jaewoo Kang;
+https://arxiv.org/abs/1901.08247
+Machine Learning and Deep Learning Algorithms for Bearing Fault Diagnostics - A Comprehensive Review
+Shen Zhang;Shibo Zhang;Bingnan Wang;Thomas G. Habetler;
+https://arxiv.org/abs/1901.08203
+Sequential Skip Prediction with Few-shot in Streamed Music Contents
+Sungkyun Chang;Seungjin Lee;Kyogu Lee;
+https://arxiv.org/abs/1901.07773
+Boosting Frequent Itemset Mining via Early Stopping Intersections
+Huu Hiep Nguyen;
+https://arxiv.org/abs/1901.07759
+Robust Learning at Noisy Labeled Medical Images: Applied to Skin Lesion Classification
+Cheng Xue;Qi Dou;Xueying Shi;Hao Chen;Pheng Ann Heng;
+https://arxiv.org/abs/1901.07306
+Most memory efficient distributed super points detection on core networks
+Jie Xu;Wei Ding;Xiaoyan Hu;
+https://arxiv.org/abs/1901.07287
+RICERCANDO: Data Mining Toolkit for Mobile Broadband Measurements
+Veljko Pejovic;Ivan Majhen;Miha Janez;Blaz Zupan;
+https://arxiv.org/abs/1901.06712
+Seed-Driven Geo-Social Data Extraction - Full Version
+Suela Isaj;Torben Bach Pedersen;
+https://arxiv.org/abs/1901.06648
+Unsupervised User Identity Linkage via Factoid Embedding
+Wei Xie;Xin Mu;Roy Ka-Wei Lee;Feida Zhu;Ee-Peng Lim;
+https://arxiv.org/abs/1901.06483
+A Conjoint Application of Data Mining Techniques for Analysis of Global Terrorist Attacks -- Prevention and Prediction for Combating Terrorism
+Vivek Kumar;Manuel Mazzara;Maj. Gen.;Angelo Messina;JooYoung Lee;
+https://arxiv.org/abs/1901.06263
+Data-driven Modelling of Smart Building Ventilation Subsystem
+Grigore Stamatescu;Iulia Stamatescu;Nicoleta Arghira;Ioana Fagarasan;
+https://arxiv.org/abs/1901.06257
+Personalized Visited-POI Assignment to Individual Raw GPS Trajectories
+Jun Suzuki;Yoshihiko Suhara;Hiroyuki Toda;Kyosuke Nishida;
+https://arxiv.org/abs/1901.05847
+Learning Tractable Probabilistic Models in Open Worlds
+Amelie Levray;Vaishak Belle;
+https://arxiv.org/abs/1901.05797
+Boolean matrix factorization meets consecutive ones property
+Nikolaj Tatti;Pauli Miettinen;
+https://arxiv.org/abs/1901.05604
+Mining Treatment-Outcome Constructs from Sequential Software Engineering Data
+Maleknaz Nayebi;Guenther Ruhe;Thomas Zimmermann;
+https://arxiv.org/abs/1901.05577
+Generating Realistic Sequences of Customer-level Transactions for Retail Datasets
+Thang Doan;Neil Veira;Brian Keng;
+https://arxiv.org/abs/1901.05556
+Visual Feature Fusion and its Application to Support Unsupervised Clustering Tasks
+Gladys Hilasaca;Fernando Paulovich;
+https://arxiv.org/abs/1901.05389
+Location, Occupation, and Semantics based Socioeconomic Status Inference on Twitter
+Jacobo Levy Abitbol;Márton Karsai;Eric Fleury;
+https://arxiv.org/abs/1901.05264
+On the Complexity of Exact Pattern Matching in Graphs: Binary Strings and Bounded Degree
+Massimo Equi;Roberto Grossi;Veli Mäkinen;
+https://arxiv.org/abs/1901.05147
+The Winning Solution to the IEEE CIG 2017 Game Data Mining Competition
+Anna Guitart;Pei Pei Chen;África Periáñez;
+https://arxiv.org/abs/1901.03888
+Hybrid Recommender Systems: A Systematic Literature Review
+Erion Çano;Maurizio Morisio;
+https://arxiv.org/abs/1901.03633
+Dependency Weighted Aggregation on Factorized Databases
+Florent Capelli;Nicolas Crosetti;Joachim Niehren;Jan Ramon;
+https://arxiv.org/abs/1901.03383
+Collaborative Privacy for Web Applications
+Yihao Hu;Ari Trachtenberg;Prakash Ishwar;
+https://arxiv.org/abs/1901.03375
+Incentive-based integration of useful work into blockchains
+David Amar;Lior Zilpa;
+https://arxiv.org/abs/1901.02444
+Unseen Object Segmentation in Videos via Transferable Representations
+Yi-Wen Chen;Yi-Hsuan Tsai;Chu-Ya Yang;Yen-Yu Lin;Ming-Hsuan Yang;
+https://arxiv.org/abs/1901.02412
+Forecasting Granular Audience Size for Online Advertising
+Ritwik Sinha;Dhruv Singal;Pranav Maneriker;Kushal Chawla;Yash Shrivastava;Deepak Pai;Atanu R Sinha;
+https://arxiv.org/abs/1901.02338
+Sparse One-Time Grab Sampling of Inliers
+Maryam Jaberi;Marianna Pensky;Hassan Foroosh;
+https://arxiv.org/abs/1901.02052
+Multi-Source Transfer Learning for Non-Stationary Environments
+Honghui Du;Leandro L. Minku;Huiyu Zhou;
+https://arxiv.org/abs/1901.01710
+Approximate-Closed-Itemset Mining for Streaming Data Under Resource Constraint
+Yoshitaka Yamamoto;Yasuo Tabei;Koji Iwanuma;
+https://arxiv.org/abs/1901.01344
+ECrits - Visualizing Support Ticket Escalation Risk
+Lloyd Montgomery;Emma Reading;Daniela Damian;
+https://arxiv.org/abs/1901.01341
+Sheaves: A Topological Approach to Big Data
+Linas Vepstas;
+https://arxiv.org/abs/1901.00846
+A First Look at the Crypto-Mining Malware Ecosystem: A Decade of Unrestricted Wealth
+Sergio Pastrana;Guillermo Suarez-Tangil;
+https://arxiv.org/abs/1901.00650
+A Fast Sketch Method for Mining User Similarities over Fully Dynamic Graph Streams
+Peng Jia;Pinghui Wang;Jing Tao;Xiaohong Guan;
+https://arxiv.org/abs/1901.00596
+A Comprehensive Survey on Graph Neural Networks
+Zonghan Wu;Shirui Pan;Fengwen Chen;Guodong Long;Chengqi Zhang;Philip S. Yu;
+https://arxiv.org/abs/1901.00560
+Instance-Based Classification through Hypothesis Testing
+Zengyou He;Chaohua Sheng;Yan Liu;Quan Zou;
+https://arxiv.org/abs/1901.00439
+Deep Representation Learning for Clustering of Health Tweets
+Oguzhan Gencoglu;
+https://arxiv.org/abs/1901.00397
+A Full Probabilistic Model for Yes/No Type Crowdsourcing in Multi-Class Classification
+Belen Saldias-Fuentes;Pavlos Protopapas;Karim Pichara;
+https://arxiv.org/abs/1901.00377
+QRP Variation of Cross--Approximation Iterations for Low Rank Approximation
+Victor Y. Pan;Qi Luan;Jonh Svadlenka;Liang Zhao;
+https://arxiv.org/abs/1901.00140
+Adaptive Quantile Low-Rank Matrix Factorization
+Shuang Xu;Chun-Xia Zhang;Jiangshe Zhang;
+https://arxiv.org/abs/1812.11689
+K-nearest Neighbor Search by Random Projection Forests
+Donghui Yan;Yingjie Wang;Jin Wang;Honggang Wang;Zhenpeng Li;
+https://arxiv.org/abs/1812.11587
+Sentiment Classification of Customer Reviews about Automobiles in Roman Urdu
+Moin Khan;Kamran Malik;
