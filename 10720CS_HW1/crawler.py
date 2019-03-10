@@ -1,7 +1,7 @@
-# coding=utf-8
-import sys
+﻿import sys
 import re
 import os
+import time
 from bs4 import BeautifulSoup
 from urllib.request import urlopen
 
@@ -96,12 +96,16 @@ if __name__ == '__main__':
     # 直接開啟主程式的話，預設爬蟲關鍵字為data+mining
     if len(sys.argv) == 1:
         crawl_paper_info('data+mining')
+        time.sleep(1) # 睡一下，不要給對方伺服器太大的負擔
         print('crawl paper info done')
         crawl_frequent_word('data+mining')
+        time.sleep(1) # 睡一下，不要給對方伺服器太大的負擔
         print('crawl frequent word done')
     # 在命令列打關鍵字爬蟲
     elif len(sys.argv) == 2:
         crawl_paper_info(sys.argv[1])
+        time.sleep(1)  # 睡一下，不要給對方伺服器太大的負擔
         print('crawl paper info done')
         crawl_frequent_word(sys.argv[1])
+        time.sleep(1)  # 睡一下，不要給對方伺服器太大的負擔
         print('crawl frequent word done')
