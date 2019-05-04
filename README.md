@@ -10,16 +10,24 @@
   1. 直接修改crawler裡面的關鍵字，並執行主程式
   2. cd到專案資料夾，於令命列輸入 python crawler.py data+science   <--- 關鍵字範例，空白記得用+號連接
 
+---
+
 ## HW2
 本次作業是實作frequent pattern mining 演算法之 Apriori
 使用方法:
   cd到專案資料夾，於令命列輸入 python frequent_pattern.py sample_in.txt out1.txt 50   <--- 關鍵字範例
   P.S. 當minimum support要求愈小、input txt愈大時程式會執行愈久哦~
 
+---
+
 ## HW3
 這次的作業3是到kaggle參加一個課堂競賽
+
 https://www.kaggle.com/c/nthuds2019hw3/leaderboard
+
+---
 
 ## practice_1 
 這是一個爬蟲汽車拍賣網站，並作分析的練習
+
 網址: https://www.findcar.com.tw/
