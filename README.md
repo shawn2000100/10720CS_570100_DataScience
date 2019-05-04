@@ -15,3 +15,7 @@
 使用方法:
   cd到專案資料夾，於令命列輸入 python frequent_pattern.py sample_in.txt out1.txt 50   <--- 關鍵字範例
   P.S. 當minimum support要求愈小、input txt愈大時程式會執行愈久哦~
+
+## HW3
+這次的作業3是到kaggle參加一個課堂競賽
+https://www.kaggle.com/c/nthuds2019hw3/leaderboard
