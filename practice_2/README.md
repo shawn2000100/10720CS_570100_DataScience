@@ -1,0 +1,1 @@
+這是一個介紹各種Classification模型及資料前處理的練習，可以學到很多重要的基本概念。 最後面的Feature Selection及Pipeline我還是沒有弄得很懂
