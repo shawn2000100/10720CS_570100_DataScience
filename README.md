@@ -27,7 +27,20 @@ https://www.kaggle.com/c/nthuds2019hw3/leaderboard
 
 ---
 
+## HW4
+這次的作業與HW3差不多，也是一個Kaggle競賽。 主要在學習填補Missing Value
+
+https://www.kaggle.com/c/ds2019hw4/leaderboard
+
+---
+
 ## practice_1 
 這是一個爬蟲汽車拍賣網站，並作分析的練習
 
 網址: https://www.findcar.com.tw/
+
+---
+
+## practice_2
+這是一個介紹各種Classification模型及資料前處理的練習，可以學到很多重要的基本概念。 
+最後面的Feature Selection及Pipeline我還是沒有弄得很懂
