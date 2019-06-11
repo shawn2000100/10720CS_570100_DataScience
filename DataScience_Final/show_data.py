@@ -8,40 +8,9 @@ from langconv import*  # 繁體轉簡體用，為了讓 結巴 的中文斷詞�
 
 # 有些字我們不在乎
 stop_word_list = [', ', ',', '...', '的', '\xa0', ' ', '「', '」', '。', '，', '、', '（', '）', '：', '.', '...', '】', '【', '....', '”',
-                  'a', 'is', 'of', 'the', 'an', 'to', 'as', 'at', 'by', 'in', 'on', 'with', 'for', 'and', 'are', 'that', 'have', 'has', 'we',
-                  '-', '—', 'your', 'its', '', '“', '／', '；', '》', '《', '“', 'he', 'they', 'was', 'or', 'be', 'this']
-
-# 輸出frequent pattern
-def freq_pat_analy(data):
-    # print(data)
-    # 標題部分並無明顯之 frequent pattern...
-    association_rules = apriori(data)
-    association_results = list(association_rules)
-    for i in association_results:
-        print(i)
-        # print()
-
-# 由於Frequent Pattern效果不好，故嘗試關鍵字頻率分析
-def frequency_statistics(data):
-    # print(data)
-    frequency_count = {}
-    for news_title in data:
-        for word in news_title:
-            if word not in frequency_count and word not in stop_word_list:
-                frequency_count[word] = 1
-            elif word in frequency_count and word not in stop_word_list:
-                frequency_count[word] += 1
-
-    # print(frequency_count)
-    frequency_count = sorted(frequency_count.items(), key=lambda x: x[1], reverse=True)
-    for i in frequency_count:
-        if len(i[0]) >= 2 and i[1] >= 25:
-            print(i)
-
-
-# 到時候會將統計出來的資料視覺化成文字雲
-def text_cloud():
-    pass
+                  'a', 'is', 'of', 'the', 'an', 'to', 'as', 'at', 'by', 'in', 'on', 'with', 'for', 'and', 'are', 'that', 'have', 'has', 'had', 'we',
+                  '-', '—', 'your', 'its', '', '“', '／', '；', '》', '《', '“', 'he', 'they', 'was', 'or', 'be', 'this', 'how', 'his', 'per',
+                  'it\'s', 'so', 'who', 'were', 'their', 'it', 'what', 'you']
 
 
 # 讀取英文版本之json資料檔案，因為中文版之處理方式較麻煩 (需斷詞)，故分成兩種版本之函式
@@ -76,6 +45,9 @@ def read_json_en():
             if char not in stop_word_list:
                 tmp.append(char)
         text_keywords_en.append(tmp)
+
+    # print(title_keywords_en)
+    # print(text_keywords_en)
 
 
 # 讀取中文版本之json資料檔案，因為中文版之處理方式較麻煩 (需斷詞)，故分成兩種版本之函式
@@ -146,29 +118,84 @@ def read_json_ch():
     # print(text_keywords_ch)
 
 
-if __name__ == '__main__':
-    read_json_en()
-    print('--------------- 開始英文版Frequent Pattern分析 ---------------')
-    freq_pat_analy(title_keywords_en)
-    print(' - - - - - - - - - - - - - - - - - - - - - -  ')
-    freq_pat_analy(text_keywords_en)
-    print('--------------- 英文版Frequent Pattern分析結束 ---------------')
+# 輸出frequent pattern
+def freq_pat_analy(data):
+    # print(data)
+    association_rules = apriori(data)
+    association_results = list(association_rules)
+    freq_pat_result = []
+    for i in association_results:
+        freq_pat_result.append(i)
+    return freq_pat_result
 
-    read_json_ch()
+# 由於Frequent Pattern效果不好，故嘗試關鍵字頻率分析
+def frequency_statistics(data):
+    # print(data)
+    frequency_count = {}
+    for news_title in data:
+        for word in news_title:
+            if word not in frequency_count and word not in stop_word_list:
+                frequency_count[word] = 1
+            elif word in frequency_count and word not in stop_word_list:
+                frequency_count[word] += 1
+
+    # print(frequency_count)
+    sorted_frequency_count = sorted(frequency_count.items(), key=lambda x: x[1], reverse=True)
+    freq_count_result = []
+    for i in sorted_frequency_count:
+        if len(i[0]) >= 2 and i[1] >= 25:
+            freq_count_result.append( (i[0], i[1]) )
+
+    return freq_count_result
+
+
+# 方便 print list用的
+def print_data(data):
+    for i in data:
+        print(i)
+
+
+# 將分析出來的 Frequent Pattern 以及 頻率統計 輸出成兩個檔案，以供將來做成文字雲
+def output_analysis_result(freq_pattern, freq_count):
+    pass
+
+
+# 將統計出來的資料視覺化成文字雲
+def text_cloud():
+    pass
+
+if __name__ == '__main__':
+    read_json_en() # 讀取JSON檔案，並存進 title_keywords_en, text_keywords_en 兩個全域的list
+    read_json_ch() # 讀取JSON檔案，並存進 title_keywords_ch, text_keywords_ch 兩個全域的list
+
+    print('--------------- 開始英文版Frequent Pattern分析 ---------------')
+    freq_pat_of_title_en = freq_pat_analy(title_keywords_en)
+    print_data(freq_pat_of_title_en)
+    print(' - - - - - - - - - - - - - - - - - - - - - -  ')
+    freq_pat_of_text_en = freq_pat_analy(text_keywords_en)
+    print_data(freq_pat_of_text_en)
+    print('--------------- 英文版Frequent Pattern分析結束 ---------------')
     print('--------------- 開始中文版Frequent Pattern分析 ---------------')
-    freq_pat_analy(title_keywords_ch)
+    freq_pat_of_title_ch = freq_pat_analy(title_keywords_ch)
+    print_data(freq_pat_of_title_ch)
     print(' ==========================================  ')
-    freq_pat_analy(text_keywords_ch)
+    freq_pat_of_text_ch = freq_pat_analy(text_keywords_ch)
+    print_data(freq_pat_of_text_ch)
     print('--------------- 中文版Frequent Pattern分析結束 ---------------')
 
     print('--------------- 開始英文版 字母頻率 分析 ---------------')
-    frequency_statistics(title_keywords_en)
+    freq_count_of_title_en = frequency_statistics(title_keywords_en)
+    print_data(freq_count_of_title_en)
     print(' ==========================================  ')
-    frequency_statistics(text_keywords_en)
+    freq_count_of_text_en = frequency_statistics(text_keywords_en)
+    print_data(freq_count_of_text_en)
     print('--------------- 英文版 字母頻率 分析結束 ---------------')
-
     print('--------------- 開始中文版 字母頻率 分析 ---------------')
-    frequency_statistics(title_keywords_ch)
+    freq_count_of_title_ch = frequency_statistics(title_keywords_ch)
+    print_data(freq_count_of_title_ch)
     print(' ==========================================  ')
-    frequency_statistics(text_keywords_ch)
+    freq_count_of_text_ch = frequency_statistics(text_keywords_ch)
+    print_data(freq_count_of_text_ch)
     print('--------------- 中文版 字母頻率 分析結束 ---------------')
+
+    # output_analysis_result()
