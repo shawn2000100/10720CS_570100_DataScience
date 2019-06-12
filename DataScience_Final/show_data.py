@@ -13,7 +13,7 @@ from wordcloud import WordCloud
 stop_word_list = [', ', ',', '...', '的', '\xa0', ' ', '「', '」', '。', '，', '、', '（', '）', '：', '.', '...', '】', '【', '....', '”',
                   'a', 'is', 'of', 'the', 'an', 'to', 'as', 'at', 'by', 'in', 'on', 'with', 'for', 'and', 'are', 'that', 'have', 'has', 'had', 'we',
                   '-', '—', 'your', 'its', '', '“', '／', '；', '》', '《', '“', 'he', 'they', 'was', 'or', 'be', 'this', 'how', 'his', 'per',
-                  'it\'s', 'so', 'who', 'were', 'their', 'it', 'what', 'you', 'our', 'she', 'my', 'say', 10]
+                  'it\'s', 'so', 'who', 'were', 'their', 'it', 'what', 'you', 'our', 'she', 'my', 'say', 10, 20]
 
 
 # 將所有爬到的新聞們整合成一份 txt 檔案，以便將來討論某個特定關鍵字的成因
@@ -217,7 +217,9 @@ def output_frequency_count(word_count_title_en, word_count_text_en,
 
 # 將統計出來的資料視覺化成文字雲 共4張圖片，不輸出frequent pattern (沒有明顯pattern, 且比較難處理)
 def text_cloud():
-    for file_name in ['word_count_title_en', 'word_count_text_en', 'word_count_title_ch', 'word_count_text_ch']:
+    # 注意: 這邊是正常情況下的寫法，但我要手動處理一下資料，來讓圖片更好看，故將處理過後的txt檔案改成revised
+    # for file_name in ['word_count_title_en', 'word_count_text_en', 'word_count_title_ch', 'word_count_text_ch']:
+    for file_name in ['word_count_title_en_revised', 'word_count_text_en_revised', 'word_count_title_ch_revised', 'word_count_text_ch_revised']:
         text = open( file_name + ".txt", 'r').read()
         wc = WordCloud(background_color="white",
                        width=1000,
@@ -267,6 +269,8 @@ if __name__ == '__main__':
     print('--------------- 中文版 字母頻率 分析結束 ---------------')
 
     # 這行不要亂 call ，會蓋掉我好不容易調過的數據~
+    # print('------ 數據txt檔案輸出成功! ------')
     # output_frequency_count(freq_count_of_title_en, freq_count_of_text_en,
     #                        freq_count_of_title_ch, freq_count_of_text_ch)
+    print('------ 文字雲輸出成功! ------')
     text_cloud()
