@@ -3,6 +3,10 @@
 
 開發用作業系統為Windwos, IDE為PyCharm
 
+## Final Project
+我
+
+---
 
 ## HW1
 本次作業是到 https://arxiv.org/ 進行論文爬蟲(爬前100篇, sort by relevance)，要將連結、標題、作者爬回來，並且統計前50個常出現的關鍵字
@@ -31,6 +35,14 @@ https://www.kaggle.com/c/nthuds2019hw3/leaderboard
 這次的作業與HW3差不多，也是一個Kaggle競賽。 主要在學習填補Missing Value
 
 https://www.kaggle.com/c/ds2019hw4/leaderboard
+
+---
+
+## HW5
+
+---
+
+## HW6
 
 ---
 
