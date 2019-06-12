@@ -5,18 +5,51 @@ import json
 from apyori import apriori
 import jieba
 from langconv import*  # 繁體轉簡體用，為了讓 結巴 的中文斷詞表現更好
+import numpy as np
+import matplotlib.pyplot as plt
+from wordcloud import WordCloud
 
 # 有些字我們不在乎
 stop_word_list = [', ', ',', '...', '的', '\xa0', ' ', '「', '」', '。', '，', '、', '（', '）', '：', '.', '...', '】', '【', '....', '”',
                   'a', 'is', 'of', 'the', 'an', 'to', 'as', 'at', 'by', 'in', 'on', 'with', 'for', 'and', 'are', 'that', 'have', 'has', 'had', 'we',
                   '-', '—', 'your', 'its', '', '“', '／', '；', '》', '《', '“', 'he', 'they', 'was', 'or', 'be', 'this', 'how', 'his', 'per',
-                  'it\'s', 'so', 'who', 'were', 'their', 'it', 'what', 'you']
+                  'it\'s', 'so', 'who', 'were', 'their', 'it', 'what', 'you', 'our', 'she', 'my', 'say', 10]
+
+
+# 將所有爬到的新聞們整合成一份 txt 檔案，以便將來討論某個特定關鍵字的成因
+def aggregate_news_en(json_file):
+    with open('aggregated_news_en.txt', 'w') as f:
+        for data in json_file:
+            f.write('news_title: ')
+            f.write(str(data['news_title'].encode(encoding="utf-8")))
+            f.write('\n')
+            f.write('news_text: ')
+            f.write(str(data['news_text'].encode(encoding="utf-8")))
+            f.write('\n')
+            f.write('news_link: ')
+            f.write(str(data['news_link'].encode(encoding="utf-8")))
+            f.write('\n\n')
+
+
+# 將所有爬到的新聞們整合成一份 txt 檔案，中文版需處理編碼問題，比較麻煩
+def aggregate_news_ch(json_file):
+    with open('aggregated_news_ch.txt', 'wb') as f:
+        for data in json_file:
+            f.write('news_title: '.encode('utf8'))
+            f.write(data['news_title'].encode('utf8'))
+            f.write('\n'.encode('utf8'))
+            f.write('news_text: '.encode('utf8'))
+            f.write(data['news_text'].encode(encoding="utf-8"))
+            f.write('\n'.encode('utf8'))
+            f.write('news_link: '.encode('utf8'))
+            f.write(data['news_link'].encode(encoding="utf-8"))
+            f.write('\n\n'.encode('utf8'))
 
 
 # 讀取英文版本之json資料檔案，因為中文版之處理方式較麻煩 (需斷詞)，故分成兩種版本之函式
 def read_json_en():
     # 我們要一次處理多個 json 檔案
-    file_name = ['diploma+inflation_0602', 'degree+inflation_0602', 'credential+inflation_0602', 'grade+inflation_0608', 'Academic+Inflation_0608']
+    file_name = ['diploma+inflation_0602', 'degree+inflation_0602', 'credential+inflation_0602', 'grade+inflation_0608', 'Academic+Inflation_0608', 'unemployed+after+graduation_0608']
     json_data_list = list() # 把所有讀進來的JSON檔案存進一個list內
     for name in file_name:
         if os.path.exists(name):
@@ -26,6 +59,7 @@ def read_json_en():
         else:
             print('檔案名稱 %s 應該有誤，請檢查' % (name))
     # print(json_data_list)
+    aggregate_news_en(json_data_list)
     # print(len(json_data_list))  # 看一下讀進了幾條新聞
 
     global title_keywords_en, text_keywords_en
@@ -53,7 +87,7 @@ def read_json_en():
 # 讀取中文版本之json資料檔案，因為中文版之處理方式較麻煩 (需斷詞)，故分成兩種版本之函式
 def read_json_ch():
     # 我們要一次處理多個 json 檔案
-    file_name = ['學歷貶值_0608', '學歷通膨_0602', '學歷氾濫_0608', '學歷不值錢_0608', '畢業即失業_0608']
+    file_name = ['學歷貶值_0608', '學歷通膨_0602', '學歷氾濫_0608', '學歷不值錢_0608', '畢業即失業_0608', '高學歷_0608']
     json_data_list = list()
     for name in file_name:
         if os.path.exists(name):
@@ -63,6 +97,7 @@ def read_json_ch():
         else:
             print('檔案名稱 %s 應該有誤，請檢查' % (name))
     # print(json_data_list)
+    aggregate_news_ch(json_data_list)
     # print(len(json_data_list))
 
     global title_keywords_ch, text_keywords_ch
@@ -143,7 +178,7 @@ def frequency_statistics(data):
     sorted_frequency_count = sorted(frequency_count.items(), key=lambda x: x[1], reverse=True)
     freq_count_result = []
     for i in sorted_frequency_count:
-        if len(i[0]) >= 2 and i[1] >= 25:
+        if len(i[0]) >= 2 and i[1] >= 15:
             freq_count_result.append( (i[0], i[1]) )
 
     return freq_count_result
@@ -155,14 +190,47 @@ def print_data(data):
         print(i)
 
 
-# 將分析出來的 Frequent Pattern 以及 頻率統計 輸出成兩個檔案，以供將來做成文字雲
-def output_analysis_result(freq_pattern, freq_count):
-    pass
+# 將分析出來的 頻率統計 輸出成4個txt檔案，以供將來做成文字雲
+def output_frequency_count(word_count_title_en, word_count_text_en,
+                           word_count_title_ch, word_count_text_ch):
+    with open('word_count_title_en.txt', 'w') as f:
+        for tuple in word_count_title_en:
+            for i in range(tuple[1]):
+                f.write(tuple[0] + ' ')
+            f.write('\n')
+    with open('word_count_text_en.txt', 'w') as f:
+        for tuple in word_count_text_en:
+            for i in range(tuple[1]):
+                f.write(tuple[0] + ' ')
+            f.write('\n')
+    with open('word_count_title_ch.txt', 'w') as f:
+        for tuple in word_count_title_ch:
+            for i in range(tuple[1]):
+                f.write(tuple[0] + ' ')
+            f.write('\n')
+    with open('word_count_text_ch.txt', 'w') as f:
+        for tuple in word_count_text_ch:
+            for i in range(tuple[1]):
+                f.write(tuple[0] + ' ')
+            f.write('\n')
 
 
-# 將統計出來的資料視覺化成文字雲
+# 將統計出來的資料視覺化成文字雲 共4張圖片，不輸出frequent pattern (沒有明顯pattern, 且比較難處理)
 def text_cloud():
-    pass
+    for file_name in ['word_count_title_en', 'word_count_text_en', 'word_count_title_ch', 'word_count_text_ch']:
+        text = open( file_name + ".txt", 'r').read()
+        wc = WordCloud(background_color="white",
+                       width=1000,
+                       height=860,
+                       margin=2,
+                       font_path='msyh.ttf',
+                       collocations=False, # 這行超她媽重要!!!，不然字體會重複出現多次
+                       max_words=100,
+                       max_font_size=200,
+                       min_font_size=32)
+        wc.generate(text)
+        wc.to_file(file_name + '.png')
+
 
 if __name__ == '__main__':
     read_json_en() # 讀取JSON檔案，並存進 title_keywords_en, text_keywords_en 兩個全域的list
@@ -198,4 +266,7 @@ if __name__ == '__main__':
     print_data(freq_count_of_text_ch)
     print('--------------- 中文版 字母頻率 分析結束 ---------------')
 
-    # output_analysis_result()
+    # 這行不要亂 call ，會蓋掉我好不容易調過的數據~
+    # output_frequency_count(freq_count_of_title_en, freq_count_of_text_en,
+    #                        freq_count_of_title_ch, freq_count_of_text_ch)
+    text_cloud()
