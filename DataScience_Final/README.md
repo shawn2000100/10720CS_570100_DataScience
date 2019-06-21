@@ -32,6 +32,6 @@ msyh.ttf 則是為了支援中文文字雲所用到的字型
 
 示意圖，無關上面的關鍵字:
 
-![image](https://github.com/shawn2000100/10720CS_570100_DataScience/blob/master/DataScience_Final/word_count_text_ch.png?raw=true)
+![image](https://github.com/shawn2000100/10720CS_570100_DataScience/blob/master/DataScience_Final/word_count_text_ch_revised.png?raw=true)
 
 ![image](https://github.com/shawn2000100/10720CS_570100_DataScience/blob/master/DataScience_Final/word_count_text_en_revised.png)
