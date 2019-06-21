@@ -17,7 +17,7 @@
   python crawler.py Tiananmen en
 ```
 
-接著我們到 show_data.py 這個檔案內，找到 read_json_en 、 read_json_ch 這兩個函式，手動設定下面的 "file_name" 這個變數，設定他要讀取的資料夾們
+接著我們到 show_data.py 這個檔案內，找到 **read_json_en** 、 **read_json_ch** 這兩個函式，手動設定下面的 "**file_name**" 這個變數，設定他要讀取的資料夾們
 再來執行 show_data.py 這個檔案，即可自動輸出txt檔案以及文字雲圖囉~ 
 
 ```python=
