@@ -26,6 +26,10 @@ python show_data.py
 
 P.S. 可於show_data.py程式碼內，設定stop_word_list來過濾不想要顯示的字
 
+langconv.py 以及 zh_wiki.py 僅為簡繁轉換用
+
+msyh.ttf 則是為了支援中文文字雲所用到的字型
+
 示意圖，無關上面的關鍵字:
 
 ![image](https://github.com/shawn2000100/10720CS_570100_DataScience/blob/master/DataScience_Final/word_count_text_ch.png?raw=true)
